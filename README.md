@@ -39,7 +39,7 @@ pip install streamlit langchain langchain-gigachat
 2. **Запустите приложение:**
 
 ```bash
-streamlit run Copy_of_Streamlit.ipynb
+streamlit run app.py
 ```
 
 3. **Введите API-ключ от GigaChat** в боковой панели и нажмите “Подключиться к API”.
