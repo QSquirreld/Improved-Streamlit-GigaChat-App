@@ -46,4 +46,5 @@ streamlit run app.py
 
 ## Связанные проекты
 
+- [LangChain Development AI-App with LLM](https://github.com/QSquirreld/-LangChain-Development-AI-App-with-LLM) — обзор основных подходов и функций LangChain и разработка ИИ приложения.
 - [Gigachat Streamlit Demo App](https://github.com/QSquirreld/Gigachat-Streamlit-Demo-App) — демо GigaChat Streamlit.
